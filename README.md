@@ -59,8 +59,8 @@ My goal is to become a Full-Stack Developer, gain real-world software engineerin
 An API-focused project centered on translation and transcription.
 
 - **Focus:** API development and language-related functionality
-- **Technologies:** [Add the actual languages, frameworks, and services used]
-- **Repository:** [Add repository URL](REPLACE_WITH_TRANSLATE_TRANSCRIBE_REPOSITORY_URL)
+- **Technologies:** Python · FastAPI · Faster-Whisper · Pydantic · HTML5 · CSS3 · JavaScript · Google Translate API · Docker · Docker Compose
+- **Preview:** https://translation-transcribe-api.vercel.app/
 
 ### 2. Nexa — Tech E-commerce
 A modern tech e-commerce project designed to showcase technology products through a clean, user-friendly interface.
@@ -73,8 +73,8 @@ A modern tech e-commerce project designed to showcase technology products throug
 A movie and series platform inspired by media discovery and review websites, bringing media information and community-focused features together.
 
 - **Focus:** Media discovery, detail pages, ratings, and reviews
-- **Technologies:** React, JavaScript, TMDB API, and [add other technologies actually used]
-- **Repository:** [Add repository URL](REPLACE_WITH_ORGI_REPOSITORY_URL)
+- **Technologies:**  React · Vite · Tailwind CSS · JavaScript · Node.js · Express.js · Supabase · PostgreSQL · Google Gemini API · TMDB API · MangaDex API · Open Library API · Upstash Redis · Lucide React
+- **Preview:** https://orgi-one.vercel.app/
 
 ---
 
