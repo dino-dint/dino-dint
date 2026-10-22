@@ -124,7 +124,7 @@ A movie and series platform inspired by media discovery and review websites, bri
 I'm interested in connecting with developers, learning from others, and exploring opportunities to grow as a software engineer.
 
 <p align="center">
-  <a href="https://t.me/https://t.me/danieltaing">
+  <a href="https://t.me/danieltaing">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://discord.com/users/aqua.0484">
