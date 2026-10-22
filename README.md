@@ -19,11 +19,13 @@ My goal is to become a Full-Stack Developer, gain real-world software engineerin
 -  Open to internship opportunities and collaboration
 -  Working toward a career in the international tech industry
 
-    <img
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXhvbG5kczBna3I4dmkwNWx3bzh0NzM5Y3RwcDYwMmE0MHR2M2Z1MyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif"
-    width="400"
-    alt="Coding animation"
-  />
+    <p align='center'>
+       <img
+        src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanZiMzhmcGhvd2Z6aXUyZGswa3R0ZWo0YTk3YWJheXh0bTl4azdxYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/aNqEFrYVnsS52/giphy.gif"
+        width="400"
+        alt="Daniel Taing GitHub Profile Header"
+       />
+    </p>
 
 ## 🛠️ Tech Stack
 
