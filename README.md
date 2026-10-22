@@ -7,7 +7,7 @@
 </p>
 
 
-### Computer Science Student | Aspiring Full-Stack Developer
+`Computer Science Student | Aspiring Full-Stack Developer`
 
 I'm a Computer Science student passionate about building useful, user-friendly web applications and exploring new technologies. I'm continuously improving my programming skills through personal projects, collaboration, and hands-on learning.
 
@@ -78,19 +78,26 @@ A movie and series platform inspired by media discovery and review websites, bri
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=dino-dint&show_icons=true&theme=github_dark&hide_border=true"
-    alt="Dino's GitHub statistics"
-    height="165"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dino-dint&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most used programming languages"
-    height="165"
-  />
+   <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api?username=dino-dint&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api?username=dino-din&theme=light_github" alt="dino's GitHub stats" />
+  </picture>
+</p>
+</br>
+<p align="center">
+   <picture>
+    <source
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=dino-dint&langs_count=4&theme=dark_github"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=dino-dint&langs_count=4&theme=light_github" alt="Top Langs" />
+  </picture>
 </p>
 
 <p align="center">
@@ -102,7 +109,7 @@ A movie and series platform inspired by media discovery and review websites, bri
 
 ---
 
-## 🎯 Current Goals
+##  Current Goals
 
 - Strengthen my frontend and backend development skills.
 - Build practical projects that solve real problems.
@@ -112,15 +119,22 @@ A movie and series platform inspired by media discovery and review websites, bri
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm interested in connecting with developers, learning from others, and exploring opportunities to grow as a software engineer.
 
-- 💼 **LinkedIn:** [Connect with me](REPLACE_WITH_LINKEDIN_URL)
-- 🌐 **Portfolio:** [Explore my work](REPLACE_WITH_PORTFOLIO_URL)
-- 🐙 **GitHub:** [@dino-dint](https://github.com/dino-dint)
+<p align="center">
+  <a href="https://t.me/https://t.me/danieltaing">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://discord.com/users/aqua.0484">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+   <a href="https://github.com/dino-dint">
+    <img src="https://img.shields.io/badge/Github-00000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+</p>
 
----
 
 <p align="center">
   <i>Learning, building, and improving — one project at a time.</i>
