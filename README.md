@@ -27,7 +27,7 @@ My goal is to become a Full-Stack Developer, gain real-world software engineerin
        />
     </p>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -53,27 +53,30 @@ My goal is to become a Full-Stack Developer, gain real-world software engineerin
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 1. Translate-Transcribe API
 An API-focused project centered on translation and transcription.
 
 - **Focus:** API development and language-related functionality
 - **Technologies:** Python · FastAPI · Faster-Whisper · Pydantic · HTML5 · CSS3 · JavaScript · Google Translate API · Docker · Docker Compose
+- **Repository:** https://github.com/dino-dint/translation-transcribe-api
 - **Preview:** https://translation-transcribe-api.vercel.app/
 
 ### 2. Nexa — Tech E-commerce
 A modern tech e-commerce project designed to showcase technology products through a clean, user-friendly interface.
 
 - **Focus:** Product browsing, modern UI, and e-commerce functionality
-- **Technologies:** React, JavaScript, Tailwind CSS, and [add other technologies actually used]
-- **Repository:** [Add repository URL](REPLACE_WITH_NEXA_REPOSITORY_URL)
+- **Technologies:** React.js · Vite · Tailwind CSS · React Router DOM · Context API · JavaScript (ES6+) · LocalStorage
+- **Repository:** https://github.com/dino-dint/Nexa
+- **Preview:** https://nexa-livid-six.vercel.app/
 
 ### 3. Orgi — Movie & Series Review Platform
 A movie and series platform inspired by media discovery and review websites, bringing media information and community-focused features together.
 
 - **Focus:** Media discovery, detail pages, ratings, and reviews
 - **Technologies:**  React · Vite · Tailwind CSS · JavaScript · Node.js · Express.js · Supabase · PostgreSQL · Google Gemini API · TMDB API · MangaDex API · Open Library API · Upstash Redis · Lucide React
+- **Repository:** https://github.com/LiebeandSkye/Orgi
 - **Preview:** https://orgi-one.vercel.app/
 
 ---
